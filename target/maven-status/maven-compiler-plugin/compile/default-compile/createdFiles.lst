@@ -1,0 +1,4 @@
+murach\sql\SQLUtil.class
+com\javacodegeeks\jdbc\metadata\Metadata.class
+murach\sql\Lazim.class
+com\javacodegeeks\jdbc\metadata\DBConnection.class
